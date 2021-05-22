@@ -5,3 +5,7 @@ I have created a login security using Spring Boot Starter Actuator and Spring Bo
 And I got the output below for security login:
 
 ![Screenshot (819)](https://user-images.githubusercontent.com/53449205/119233092-ef2ff580-bb44-11eb-8a7d-0f135ccdf29d.png)
+
+I also get the all Spring Boot Starter Actuator endpoints. Below is it's output:
+
+![Screenshot (823)](https://user-images.githubusercontent.com/53449205/119233390-75007080-bb46-11eb-96a1-8719133b4690.png)
