@@ -9,3 +9,7 @@ And I got the output below for security login:
 I also get the all Spring Boot Starter Actuator endpoints. Below is it's output:
 
 ![Screenshot (823)](https://user-images.githubusercontent.com/53449205/119233390-75007080-bb46-11eb-96a1-8719133b4690.png)
+ 
+ I also got the my app information and health status.
+ 
+ ![Screenshot (824)](https://user-images.githubusercontent.com/53449205/119233470-db858e80-bb46-11eb-8b6e-64a499b28650.png)
